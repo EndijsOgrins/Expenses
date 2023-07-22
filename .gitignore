@@ -1,0 +1,11 @@
+# Remove VS temp files
+
+/.vs
+
+# Build output
+
+/build
+
+# Config.txt
+
+/config.txt
